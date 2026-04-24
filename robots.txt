@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-louisville-ky.netlify.app/sitemap.xml
